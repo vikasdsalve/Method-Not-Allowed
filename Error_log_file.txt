@@ -1,0 +1,81 @@
+
+====Executing command 'npm install'====
+
+
+npm WARN package.json angular-quickstart@1.0.0 No README data
+npm http GET https://registry.npmjs.org/angular-in-memory-web-api
+npm http GET https://registry.npmjs.org/core-js
+npm http GET https://registry.npmjs.org/systemjs
+npm http GET https://registry.npmjs.org/lite-server
+npm http GET https://registry.npmjs.org/canonical-path
+npm http GET https://registry.npmjs.org/concurrently
+npm http GET https://registry.npmjs.org/angular/compiler
+npm http GET https://registry.npmjs.org/angular/common
+npm http GET https://registry.npmjs.org/angular/core
+npm http GET https://registry.npmjs.org/angular/http
+npm http GET https://registry.npmjs.org/angular/forms
+npm http GET https://registry.npmjs.org/angular/platform-browser
+npm http GET https://registry.npmjs.org/zone.js
+npm http GET https://registry.npmjs.org/angular/platform-browser-dynamic
+npm http GET https://registry.npmjs.org/angular/router
+npm http GET https://registry.npmjs.org/rxjs
+npm http GET https://registry.npmjs.org/jasmine-core
+npm http GET https://registry.npmjs.org/karma-jasmine-html-reporter
+npm http GET https://registry.npmjs.org/karma-cli
+npm http GET https://registry.npmjs.org/lodash
+npm http GET https://registry.npmjs.org/karma-chrome-launcher
+npm http GET https://registry.npmjs.org/karma-jasmine
+npm http GET https://registry.npmjs.org/tslint
+npm http GET https://registry.npmjs.org/rimraf
+npm http GET https://registry.npmjs.org/protractor
+npm http GET https://registry.npmjs.org/typescript
+npm http GET https://registry.npmjs.org/karma
+npm http GET https://registry.npmjs.org/types/node
+npm http GET https://registry.npmjs.org/types/jasmine
+npm http 304 https://registry.npmjs.org/lite-server
+npm http 304 https://registry.npmjs.org/concurrently
+npm http 304 https://registry.npmjs.org/canonical-path
+npm http 405 https://registry.npmjs.org/angular/common
+npm ERR! Error: Method Not Allowed
+npm ERR!     at errorResponse (C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Web Tools\External\npm\node_modules\npm\lib\cache.js:753:14)
+npm ERR!     at C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Web Tools\External\npm\node_modules\npm\lib\cache.js:773:12
+npm ERR!     at saved (C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Web Tools\External\npm\node_modules\npm-registry-client\lib\get.js:148:7)
+npm ERR!     at C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Web Tools\External\npm\node_modules\graceful-fs\polyfills.js:133:7
+npm ERR!     at Object.oncomplete (fs.js:107:15)
+npm ERR! If you need help, you may report this *entire* log,
+npm ERR! including the npm and node versions, at:
+npm ERR!     <http://github.com/npm/npm/issues>
+npm ERR! System Windows_NT 6.2.9200
+npm ERR! command "C:\\Program Files (x86)\\Microsoft Visual Studio 14.0\\Common7\\IDE\\Extensions\\Microsoft\\Web Tools\\External\\\\node\\node" "C:\\Program Files (x86)\\Microsoft Visual Studio 14.0\\Common7\\IDE\\Extensions\\Microsoft\\Web Tools\\External\\npm\\node_modules\\npm\\bin\\npm-cli.js" "install"
+npm ERR! cwd C:\Users\VIKAS\documents\visual studio 2015\Projects\Angular2\Angular2
+npm ERR! node -v v0.10.31
+npm ERR! npm -v 1.4.9
+npm ERR! code E405
+npm http 405 https://registry.npmjs.org/angular/core
+npm http 405 https://registry.npmjs.org/angular/compiler
+npm http 405 https://registry.npmjs.org/angular/http
+npm http 304 https://registry.npmjs.org/systemjs
+npm http 304 https://registry.npmjs.org/zone.js
+npm http 405 https://registry.npmjs.org/angular/platform-browser
+npm http 405 https://registry.npmjs.org/angular/forms
+npm http 304 https://registry.npmjs.org/rxjs
+npm http 304 https://registry.npmjs.org/jasmine-core
+npm http 405 https://registry.npmjs.org/angular/platform-browser-dynamic
+npm http 304 https://registry.npmjs.org/karma-jasmine-html-reporter
+npm http 304 https://registry.npmjs.org/lodash
+npm http 405 https://registry.npmjs.org/angular/router
+npm http 304 https://registry.npmjs.org/karma-chrome-launcher
+npm http 304 https://registry.npmjs.org/karma-jasmine
+npm http 304 https://registry.npmjs.org/core-js
+npm http 304 https://registry.npmjs.org/tslint
+npm http 304 https://registry.npmjs.org/rimraf
+npm http 304 https://registry.npmjs.org/protractor
+npm http 304 https://registry.npmjs.org/typescript
+npm http 304 https://registry.npmjs.org/karma
+npm http 405 https://registry.npmjs.org/types/node
+npm http 405 https://registry.npmjs.org/types/jasmine
+npm http 304 https://registry.npmjs.org/angular-in-memory-web-api
+npm http 304 https://registry.npmjs.org/karma-cli
+npm
+
+====npm command completed with exit code 1====
